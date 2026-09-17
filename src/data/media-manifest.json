@@ -1,0 +1,360 @@
+{
+  "asesoria-telas": {
+    "src": "/media/editorial/asesoria-telas-1024.webp",
+    "width": 1024,
+    "height": 662,
+    "srcset": [
+      "/media/editorial/asesoria-telas-640.webp 640w",
+      "/media/editorial/asesoria-telas-1024.webp 1024w"
+    ],
+    "origen": "imagenes/sitio/c78f3499_implementa-un-uniforme-en-tu-empresa-1024x662-0835626.png"
+  },
+  "audifonos-panasonic": {
+    "src": "/media/productos/audifonos-panasonic-1200.webp",
+    "width": 1200,
+    "height": 1200,
+    "srcset": [
+      "/media/productos/audifonos-panasonic-640.webp 640w",
+      "/media/productos/audifonos-panasonic-1200.webp 1200w"
+    ],
+    "origen": "imagenes/productos/89c7d226_616ofJfqNyL-9038601.jpg"
+  },
+  "botas-comando": {
+    "src": "/media/productos/botas-comando-1200.webp",
+    "width": 1200,
+    "height": 1200,
+    "srcset": [
+      "/media/productos/botas-comando-640.webp 640w",
+      "/media/productos/botas-comando-1200.webp 1200w"
+    ],
+    "origen": "imagenes/productos/1a7ef34a_IMG_9268-7730317.JPG"
+  },
+  "botas-jungla-1": {
+    "src": "/media/productos/botas-jungla-1-1200.webp",
+    "width": 1200,
+    "height": 1200,
+    "srcset": [
+      "/media/productos/botas-jungla-1-640.webp 640w",
+      "/media/productos/botas-jungla-1-1200.webp 1200w"
+    ],
+    "origen": "imagenes/productos/790d68a6_thumbnail_IMG_2967_Facetune_22-10-2020-20-45-34-7730582.jpg"
+  },
+  "botas-jungla-2": {
+    "src": "/media/productos/botas-jungla-2-1200.webp",
+    "width": 1200,
+    "height": 1200,
+    "srcset": [
+      "/media/productos/botas-jungla-2-640.webp 640w",
+      "/media/productos/botas-jungla-2-1200.webp 1200w"
+    ],
+    "origen": "imagenes/productos/23f9572e_thumbnail_IMG_2968_Facetune_22-10-2020-20-47-59-7730581.jpg"
+  },
+  "botas-jungla-3": {
+    "src": "/media/productos/botas-jungla-3-1200.webp",
+    "width": 1200,
+    "height": 1200,
+    "srcset": [
+      "/media/productos/botas-jungla-3-640.webp 640w",
+      "/media/productos/botas-jungla-3-1200.webp 1200w"
+    ],
+    "origen": "imagenes/productos/a83078c8_panama_sole__85625.1531361965.1280.1280__87526.1578582462-7730501.jpg"
+  },
+  "botas-jungla-4": {
+    "src": "/media/productos/botas-jungla-4-299.webp",
+    "width": 299,
+    "height": 300,
+    "srcset": [
+      "/media/productos/botas-jungla-4-299.webp 299w"
+    ],
+    "origen": "imagenes/productos/83b0d77f_Jungla_caribe-7730525.jpg"
+  },
+  "botas-swat": {
+    "src": "/media/productos/botas-swat-247.webp",
+    "width": 247,
+    "height": 296,
+    "srcset": [
+      "/media/productos/botas-swat-247.webp 247w"
+    ],
+    "origen": "imagenes/productos/272f4e09_Swat_con_zipper-7730582.jpg"
+  },
+  "camisa-columbia-emaus": {
+    "src": "/media/productos/camisa-columbia-emaus-300.webp",
+    "width": 300,
+    "height": 300,
+    "srcset": [
+      "/media/productos/camisa-columbia-emaus-300.webp 300w"
+    ],
+    "origen": "imagenes/productos/be0513d1_Camisa-Tipo-Columbia-Azul-Marino-con-Logo-Emaus-Unisex-300x300-7728095.png"
+  },
+  "camisa-columbia-fed-1": {
+    "src": "/media/productos/camisa-columbia-fed-1-768.webp",
+    "width": 768,
+    "height": 768,
+    "srcset": [
+      "/media/productos/camisa-columbia-fed-1-640.webp 640w",
+      "/media/productos/camisa-columbia-fed-1-768.webp 768w"
+    ],
+    "origen": "imagenes/productos/a3118cb3_najul_13-7723878.png"
+  },
+  "camisa-columbia-fed-2": {
+    "src": "/media/productos/camisa-columbia-fed-2-768.webp",
+    "width": 768,
+    "height": 768,
+    "srcset": [
+      "/media/productos/camisa-columbia-fed-2-640.webp 640w",
+      "/media/productos/camisa-columbia-fed-2-768.webp 768w"
+    ],
+    "origen": "imagenes/productos/c649613c_2021-01-13-7724596.jpg"
+  },
+  "camisa-manga-larga-detalles": {
+    "src": "/media/productos/camisa-manga-larga-detalles-640.webp",
+    "width": 640,
+    "height": 400,
+    "srcset": [
+      "/media/productos/camisa-manga-larga-detalles-640.webp 640w"
+    ],
+    "origen": "imagenes/productos/21b94047_Portfolio22-7724559.png"
+  },
+  "camisa-oxford-manga-corta": {
+    "src": "/media/productos/camisa-oxford-manga-corta-512.webp",
+    "width": 512,
+    "height": 366,
+    "srcset": [
+      "/media/productos/camisa-oxford-manga-corta-512.webp 512w"
+    ],
+    "origen": "imagenes/productos/c2957b9b_unnamed-2-7727419.png"
+  },
+  "camisa-polo-algodon": {
+    "src": "/media/productos/camisa-polo-algodon-1280.webp",
+    "width": 1280,
+    "height": 871,
+    "srcset": [
+      "/media/productos/camisa-polo-algodon-640.webp 640w",
+      "/media/productos/camisa-polo-algodon-1280.webp 1280w"
+    ],
+    "origen": "imagenes/productos/cdb2010b_apparel_0022-7729620.jpg"
+  },
+  "camisa-polo-waffit": {
+    "src": "/media/productos/camisa-polo-waffit-500.webp",
+    "width": 500,
+    "height": 579,
+    "srcset": [
+      "/media/productos/camisa-polo-waffit-500.webp 500w"
+    ],
+    "origen": "imagenes/productos/d6cabf48_unnamed-7728756.png"
+  },
+  "camisa-poplin-manga-larga": {
+    "src": "/media/productos/camisa-poplin-manga-larga-1000.webp",
+    "width": 1000,
+    "height": 1000,
+    "srcset": [
+      "/media/productos/camisa-poplin-manga-larga-640.webp 640w",
+      "/media/productos/camisa-poplin-manga-larga-1000.webp 1000w"
+    ],
+    "origen": "imagenes/productos/a4306028_sp91rb-women-s-royal-blue-long-sleeve-button-down-poplin-shirts-9-1-colors-15-7728509.jpg"
+  },
+  "camisa-reflectivos": {
+    "src": "/media/productos/camisa-reflectivos-1043.webp",
+    "width": 1043,
+    "height": 1200,
+    "srcset": [
+      "/media/productos/camisa-reflectivos-640.webp 640w",
+      "/media/productos/camisa-reflectivos-1043.webp 1043w"
+    ],
+    "origen": "imagenes/productos/97b07cc5_IMG-3627-Facetune-25-11-2020-13-18-41-7728255.jpg"
+  },
+  "camisa-seguridad-bordada": {
+    "src": "/media/productos/camisa-seguridad-bordada-500.webp",
+    "width": 500,
+    "height": 500,
+    "srcset": [
+      "/media/productos/camisa-seguridad-bordada-500.webp 500w"
+    ],
+    "origen": "imagenes/productos/18019b4c_security-guard-shirt-500x500-8379406.jpg"
+  },
+  "camisa-seguridad-manga-corta": {
+    "src": "/media/productos/camisa-seguridad-manga-corta-512.webp",
+    "width": 512,
+    "height": 504,
+    "srcset": [
+      "/media/productos/camisa-seguridad-manga-corta-512.webp 512w"
+    ],
+    "origen": "imagenes/productos/2b6c7ac4_unnamed-3-7729407.png"
+  },
+  "camisa-seguridad-manga-larga-1": {
+    "src": "/media/productos/camisa-seguridad-manga-larga-1-518.webp",
+    "width": 518,
+    "height": 518,
+    "srcset": [
+      "/media/productos/camisa-seguridad-manga-larga-1-518.webp 518w"
+    ],
+    "origen": "imagenes/productos/906d545a_P1000250-8379035.gif#frame0"
+  },
+  "camisa-seguridad-manga-larga-2": {
+    "src": "/media/productos/camisa-seguridad-manga-larga-2-518.webp",
+    "width": 518,
+    "height": 518,
+    "srcset": [
+      "/media/productos/camisa-seguridad-manga-larga-2-518.webp 518w"
+    ],
+    "origen": "imagenes/productos/906d545a_P1000250-8379035.gif#frame18"
+  },
+  "camisa-seguridad-manga-larga-3": {
+    "src": "/media/productos/camisa-seguridad-manga-larga-3-518.webp",
+    "width": 518,
+    "height": 518,
+    "srcset": [
+      "/media/productos/camisa-seguridad-manga-larga-3-518.webp 518w"
+    ],
+    "origen": "imagenes/productos/906d545a_P1000250-8379035.gif#frame34"
+  },
+  "equipo-oficina": {
+    "src": "/media/editorial/equipo-oficina-1280.webp",
+    "width": 1280,
+    "height": 854,
+    "srcset": [
+      "/media/editorial/equipo-oficina-640.webp 640w",
+      "/media/editorial/equipo-oficina-1280.webp 1280w"
+    ],
+    "origen": "imagenes/sitio/d05fea00_uniformes-empresariales-1-7876768.jpg"
+  },
+  "gabacha-medica": {
+    "src": "/media/productos/gabacha-medica-225.webp",
+    "width": 225,
+    "height": 225,
+    "srcset": [
+      "/media/productos/gabacha-medica-225.webp 225w"
+    ],
+    "origen": "imagenes/productos/2e4ebeac_images-30-7730969.jpeg"
+  },
+  "hero-industrial": {
+    "src": "/media/editorial/hero-industrial-1280.webp",
+    "width": 1280,
+    "height": 914,
+    "srcset": [
+      "/media/editorial/hero-industrial-640.webp 640w",
+      "/media/editorial/hero-industrial-1280.webp 1280w"
+    ],
+    "origen": "imagenes/sitio/c9549c2f_ALFILERI19_2438-50-0643438.jpg"
+  },
+  "linea-industrial": {
+    "src": "/media/editorial/linea-industrial-1043.webp",
+    "width": 1043,
+    "height": 1200,
+    "srcset": [
+      "/media/editorial/linea-industrial-640.webp 640w",
+      "/media/editorial/linea-industrial-1043.webp 1043w"
+    ],
+    "origen": "imagenes/productos/97b07cc5_IMG-3627-Facetune-25-11-2020-13-18-41-7728255.jpg"
+  },
+  "linea-oficina": {
+    "src": "/media/editorial/linea-oficina-1280.webp",
+    "width": 1280,
+    "height": 853,
+    "srcset": [
+      "/media/editorial/linea-oficina-640.webp 640w",
+      "/media/editorial/linea-oficina-1280.webp 1280w"
+    ],
+    "origen": "imagenes/sitio/95ae6834_Uniber-oficina-blusa-4-0751099.jpg"
+  },
+  "linea-salud": {
+    "src": "/media/editorial/linea-salud-1280.webp",
+    "width": 1280,
+    "height": 853,
+    "srcset": [
+      "/media/editorial/linea-salud-640.webp 640w",
+      "/media/editorial/linea-salud-1280.webp 1280w"
+    ],
+    "origen": "imagenes/sitio/6ef85d62_usman-yousaf-pTrhfmj2jDA-unsplash-0750961.jpg"
+  },
+  "linea-seguridad": {
+    "src": "/media/editorial/linea-seguridad-1253.webp",
+    "width": 1253,
+    "height": 815,
+    "srcset": [
+      "/media/editorial/linea-seguridad-640.webp 640w",
+      "/media/editorial/linea-seguridad-1253.webp 1253w"
+    ],
+    "origen": "imagenes/sitio/82ce632f_Fotolia_75654347_Subscription_Monthly_M-8165374.jpg"
+  },
+  "logo-zorzal-lirio": {
+    "src": "/media/marca/logo-zorzal-lirio-1280.webp",
+    "width": 1280,
+    "height": 376,
+    "srcset": [
+      "/media/marca/logo-zorzal-lirio-640.webp 640w",
+      "/media/marca/logo-zorzal-lirio-1280.webp 1280w"
+    ],
+    "origen": "imagenes/sitio/5a403993_ZORZAL_LIRIO_PROPUESTA02-01-01-7679685.png"
+  },
+  "mapa-taller": {
+    "src": "/media/editorial/mapa-taller-1017.webp",
+    "width": 1017,
+    "height": 630,
+    "srcset": [
+      "/media/editorial/mapa-taller-640.webp 640w",
+      "/media/editorial/mapa-taller-1017.webp 1017w"
+    ],
+    "origen": "imagenes/sitio/287645dc_Captura_de_pantalla_2021-11-25_a_las_11.33.49_a._m.-7861829.png"
+  },
+  "marca-zorzal": {
+    "src": "/media/marca/marca-zorzal-1280.webp",
+    "width": 1280,
+    "height": 1093,
+    "srcset": [
+      "/media/marca/marca-zorzal-640.webp 640w",
+      "/media/marca/marca-zorzal-1280.webp 1280w"
+    ],
+    "origen": "imagenes/sitio/1fa2ca17_ZORZAL_LIRIO_PROPUESTA02-01-01-8306222.png"
+  },
+  "pantalon-formal": {
+    "src": "/media/productos/pantalon-formal-970.webp",
+    "width": 970,
+    "height": 1200,
+    "srcset": [
+      "/media/productos/pantalon-formal-640.webp 640w",
+      "/media/productos/pantalon-formal-970.webp 970w"
+    ],
+    "origen": "imagenes/productos/b9c2bb18_pantalon-formal-8380836.jpg"
+  },
+  "pantalon-ranger": {
+    "src": "/media/productos/pantalon-ranger-1000.webp",
+    "width": 1000,
+    "height": 1000,
+    "srcset": [
+      "/media/productos/pantalon-ranger-640.webp 640w",
+      "/media/productos/pantalon-ranger-1000.webp 1000w"
+    ],
+    "origen": "imagenes/productos/349a2914_p_1000754291-8380189.jpg"
+  },
+  "plan-corporativo": {
+    "src": "/media/editorial/plan-corporativo-1024.webp",
+    "width": 1024,
+    "height": 512,
+    "srcset": [
+      "/media/editorial/plan-corporativo-640.webp 640w",
+      "/media/editorial/plan-corporativo-1024.webp 1024w"
+    ],
+    "origen": "imagenes/sitio/45a154ee_FH0A9026-1024x512-0835625.jpg"
+  },
+  "polos-contraste": {
+    "src": "/media/editorial/polos-contraste-1024.webp",
+    "width": 1024,
+    "height": 662,
+    "srcset": [
+      "/media/editorial/polos-contraste-640.webp 640w",
+      "/media/editorial/polos-contraste-1024.webp 1024w"
+    ],
+    "origen": "imagenes/sitio/9bc8e7e8_Colores-de-camisas-en-la-empresa-aprende-su-significado-uniformes-corporativos-1024x662-7778267.png"
+  },
+  "servicio-detalle": {
+    "src": "/media/editorial/servicio-detalle-800.webp",
+    "width": 800,
+    "height": 1200,
+    "srcset": [
+      "/media/editorial/servicio-detalle-640.webp 640w",
+      "/media/editorial/servicio-detalle-800.webp 800w"
+    ],
+    "origen": "imagenes/sitio/ae9a788b_pexels-kampus-production-5920775-7778327.jpg"
+  }
+}

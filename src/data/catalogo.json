@@ -1,0 +1,1412 @@
+{
+  "extraidoEl": "2026-09-17",
+  "destacados": [
+    6,
+    10,
+    7,
+    12,
+    20,
+    24,
+    16,
+    28
+  ],
+  "productos": [
+    {
+      "id": 35,
+      "slug": "club-de-libro-los-zorzales",
+      "nombre": "Club de Libro los Zorzales",
+      "descripcion": "Club de libro los zorzales",
+      "modalidad": "membresia",
+      "periodicidad": "mes",
+      "precio": 5.0,
+      "precioAnterior": null,
+      "moneda": "USD",
+      "sku": null,
+      "inventario": null,
+      "categoriasPublicadas": [
+        {
+          "id": 15,
+          "nombre": "Oficina",
+          "slug": "oficina"
+        }
+      ],
+      "lineas": [
+        "otros"
+      ],
+      "opciones": [],
+      "variantes": [],
+      "imagenes": [],
+      "fuente": "https://zorzallirio.com/tienda/club-de-libro-los-zorzales",
+      "nota": "La única imagen que la tienda original asocia a esta ficha es el logotipo de «Green Building Group S.A.S», que no corresponde al artículo. No se publica ninguna fotografía en su lugar. La tienda lo clasifica en «Oficina»; aquí se lista fuera de las líneas de uniformes para no presentarlo como especialidad.",
+      "esLineaPrincipal": false
+    },
+    {
+      "id": 34,
+      "slug": "audifonos-inalambricos-panasonic-ipx4",
+      "nombre": "Audífonos inalámbricos Panasonic IPX4",
+      "descripcion": "Audífonos Inalámbricos marca Panasonic",
+      "modalidad": "articulo",
+      "periodicidad": null,
+      "precio": 84.75,
+      "precioAnterior": 95.0,
+      "moneda": "USD",
+      "sku": "5",
+      "inventario": null,
+      "categoriasPublicadas": [
+        {
+          "id": 19,
+          "nombre": "Electronico",
+          "slug": "electronico"
+        }
+      ],
+      "lineas": [
+        "otros"
+      ],
+      "opciones": [
+        {
+          "nombre": "Color",
+          "valores": [
+            "Blanco",
+            "Negro"
+          ],
+          "determinaPrecio": false
+        },
+        {
+          "nombre": "Tipo",
+          "valores": [
+            "Version Normal",
+            "Version Pro"
+          ],
+          "determinaPrecio": true
+        }
+      ],
+      "variantes": [
+        {
+          "nombre": "Version Normal",
+          "precio": 84.75,
+          "precioAnterior": 95.0,
+          "sku": "5"
+        },
+        {
+          "nombre": "Version Pro",
+          "precio": 100.0,
+          "precioAnterior": 120.0,
+          "sku": "5"
+        }
+      ],
+      "imagenes": [
+        {
+          "src": "/media/productos/audifonos-panasonic-1200.webp",
+          "srcset": "/media/productos/audifonos-panasonic-640.webp 640w, /media/productos/audifonos-panasonic-1200.webp 1200w",
+          "width": 1200,
+          "height": 1200,
+          "alt": "Audífonos inalámbricos Panasonic blancos junto a su estuche de carga.",
+          "origen": "imagenes/productos/89c7d226_616ofJfqNyL-9038601.jpg"
+        }
+      ],
+      "fuente": "https://zorzallirio.com/tienda/audifonos-inalambricos-panasonic-ipx4",
+      "nota": "La ficha original asocia dos imágenes más que no corresponden al producto: una gorra negra con la palabra «Security» y el logotipo de «V-KOOL». No se muestran.",
+      "esLineaPrincipal": false
+    },
+    {
+      "id": 30,
+      "slug": "camisa-de-seguridad-manga-larga",
+      "nombre": "Camisa de seguridad Manga Larga",
+      "descripcion": "Camisa Manga larga de seguridad, colores y telas a elecciones del cliente.",
+      "modalidad": "articulo",
+      "periodicidad": null,
+      "precio": 11.0,
+      "precioAnterior": null,
+      "moneda": "USD",
+      "sku": null,
+      "inventario": null,
+      "categoriasPublicadas": [
+        {
+          "id": 17,
+          "nombre": "Seguridad",
+          "slug": "seguridad"
+        }
+      ],
+      "lineas": [
+        "seguridad"
+      ],
+      "opciones": [
+        {
+          "nombre": "Talla",
+          "valores": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "2XL",
+            "3XL"
+          ],
+          "determinaPrecio": false
+        },
+        {
+          "nombre": "Color",
+          "valores": [
+            "Blanco",
+            "Cafe",
+            "Celeste",
+            "Gris Claro",
+            "Rojo",
+            "Verde",
+            "Azul Marino",
+            "Gris Oscuro",
+            "Caqui",
+            "Amarillo",
+            "Negro"
+          ],
+          "determinaPrecio": false
+        }
+      ],
+      "variantes": [],
+      "imagenes": [
+        {
+          "src": "/media/productos/camisa-seguridad-manga-larga-1-518.webp",
+          "srcset": "/media/productos/camisa-seguridad-manga-larga-1-518.webp 518w",
+          "width": 518,
+          "height": 518,
+          "alt": "Camisa blanca de seguridad manga larga con charreteras y bolsillos de tapa negros, vista de frente.",
+          "origen": "imagenes/productos/906d545a_P1000250-8379035.gif#frame0"
+        },
+        {
+          "src": "/media/productos/camisa-seguridad-manga-larga-2-518.webp",
+          "srcset": "/media/productos/camisa-seguridad-manga-larga-2-518.webp 518w",
+          "width": 518,
+          "height": 518,
+          "alt": "La misma camisa de seguridad manga larga vista de tres cuartos.",
+          "origen": "imagenes/productos/906d545a_P1000250-8379035.gif#frame18"
+        },
+        {
+          "src": "/media/productos/camisa-seguridad-manga-larga-3-518.webp",
+          "srcset": "/media/productos/camisa-seguridad-manga-larga-3-518.webp 518w",
+          "width": 518,
+          "height": 518,
+          "alt": "La misma camisa de seguridad manga larga vista de espalda.",
+          "origen": "imagenes/productos/906d545a_P1000250-8379035.gif#frame34"
+        }
+      ],
+      "fuente": "https://zorzallirio.com/tienda/camisa-de-seguridad-manga-larga",
+      "nota": "Las tres vistas son fotogramas del GIF animado que publica la ficha original (6,7 MB). No se generó ninguna imagen nueva. Lleva el mismo nombre publicado que el artículo ID 24, con distinto precio y distinta descripción.",
+      "esLineaPrincipal": true
+    },
+    {
+      "id": 29,
+      "slug": "camisa-polo-algodon-copy",
+      "nombre": "Camisa tipo Polo Algodon",
+      "descripcion": "Camisa tipo Polo, para dama y caballero, los colores y bordados son personalizables.",
+      "modalidad": "articulo",
+      "periodicidad": null,
+      "precio": 11.0,
+      "precioAnterior": null,
+      "moneda": "USD",
+      "sku": null,
+      "inventario": null,
+      "categoriasPublicadas": [
+        {
+          "id": 15,
+          "nombre": "Oficina",
+          "slug": "oficina"
+        },
+        {
+          "id": 17,
+          "nombre": "Seguridad",
+          "slug": "seguridad"
+        }
+      ],
+      "lineas": [
+        "oficina",
+        "seguridad"
+      ],
+      "opciones": [
+        {
+          "nombre": "Genero",
+          "valores": [
+            "Dama",
+            "Caballero"
+          ],
+          "determinaPrecio": false
+        },
+        {
+          "nombre": "Color",
+          "valores": [
+            "Blanco",
+            "Celeste",
+            "Rojo",
+            "Marino",
+            "Gris Claro",
+            "Gris Oscuro",
+            "Negro",
+            "Cafe",
+            "Royal"
+          ],
+          "determinaPrecio": false
+        }
+      ],
+      "variantes": [],
+      "imagenes": [
+        {
+          "src": "/media/productos/camisa-polo-algodon-1280.webp",
+          "srcset": "/media/productos/camisa-polo-algodon-640.webp 640w, /media/productos/camisa-polo-algodon-1280.webp 1280w",
+          "width": 1280,
+          "height": 871,
+          "alt": "Camisa tipo polo de algodón con logotipo bordado en el pecho, mostrada en gris y en azul.",
+          "origen": "imagenes/productos/cdb2010b_apparel_0022-7729620.jpg"
+        }
+      ],
+      "fuente": "https://zorzallirio.com/tienda/camisa-polo-algodon-copy",
+      "nota": "Comparte nombre, precio, descripción y fotografía con el artículo ID 11. La tienda original los publica como dos fichas distintas y así se conservan.",
+      "esLineaPrincipal": true
+    },
+    {
+      "id": 28,
+      "slug": "pantalon-formal",
+      "nombre": "Pantalon Formal",
+      "descripcion": "Pantalon formal. Telas y colores a criterio de cliente.",
+      "modalidad": "articulo",
+      "periodicidad": null,
+      "precio": 10.0,
+      "precioAnterior": null,
+      "moneda": "USD",
+      "sku": null,
+      "inventario": null,
+      "categoriasPublicadas": [
+        {
+          "id": 15,
+          "nombre": "Oficina",
+          "slug": "oficina"
+        },
+        {
+          "id": 17,
+          "nombre": "Seguridad",
+          "slug": "seguridad"
+        }
+      ],
+      "lineas": [
+        "oficina",
+        "seguridad"
+      ],
+      "opciones": [
+        {
+          "nombre": "Color",
+          "valores": [
+            "Blanco",
+            "Cafe",
+            "Celeste",
+            "Gris Claro",
+            "Gris Oscuro",
+            "Rojo",
+            "Verde",
+            "Caqui",
+            "Azul Celeste",
+            "Negro",
+            "Azul Royal",
+            "Amarillo"
+          ],
+          "determinaPrecio": false
+        },
+        {
+          "nombre": "Talla",
+          "valores": [
+            "28",
+            "30",
+            "32",
+            "34",
+            "36",
+            "38",
+            "40",
+            "42",
+            "44"
+          ],
+          "determinaPrecio": false
+        },
+        {
+          "nombre": "Tela",
+          "valores": [
+            "Gabardina",
+            "Tropical",
+            "Lamina",
+            "Macarthur",
+            "Valentino"
+          ],
+          "determinaPrecio": false
+        }
+      ],
+      "variantes": [],
+      "imagenes": [
+        {
+          "src": "/media/productos/pantalon-formal-970.webp",
+          "srcset": "/media/productos/pantalon-formal-640.webp 640w, /media/productos/pantalon-formal-970.webp 970w",
+          "width": 970,
+          "height": 1200,
+          "alt": "Pantalón formal negro de vestir, presentado con camisa blanca y zapatos de vestir.",
+          "origen": "imagenes/productos/b9c2bb18_pantalon-formal-8380836.jpg"
+        }
+      ],
+      "fuente": "https://zorzallirio.com/tienda/pantalon-formal",
+      "nota": null,
+      "esLineaPrincipal": true
+    },
+    {
+      "id": 27,
+      "slug": "pantalon-ranger",
+      "nombre": "Pantalon Ranger",
+      "descripcion": "Pantalon Ranger para uso en seguridad y mantenimiento. Telas y colores a criterio de cliente.",
+      "modalidad": "articulo",
+      "periodicidad": null,
+      "precio": 17.0,
+      "precioAnterior": null,
+      "moneda": "USD",
+      "sku": null,
+      "inventario": null,
+      "categoriasPublicadas": [
+        {
+          "id": 17,
+          "nombre": "Seguridad",
+          "slug": "seguridad"
+        }
+      ],
+      "lineas": [
+        "seguridad"
+      ],
+      "opciones": [
+        {
+          "nombre": "Color",
+          "valores": [
+            "Blanco",
+            "Cafe",
+            "Celeste",
+            "Gris Claro",
+            "Gris Oscuro",
+            "Rojo",
+            "Verde",
+            "Caqui",
+            "Azul Celeste",
+            "Negro",
+            "Azul Royal",
+            "Amarillo"
+          ],
+          "determinaPrecio": false
+        },
+        {
+          "nombre": "Talla",
+          "valores": [
+            "28",
+            "30",
+            "32",
+            "34",
+            "36",
+            "38",
+            "40",
+            "42",
+            "44"
+          ],
+          "determinaPrecio": false
+        },
+        {
+          "nombre": "Tela",
+          "valores": [
+            "Gabardina",
+            "Tropical",
+            "Lamina",
+            "Macarthur",
+            "Valentino"
+          ],
+          "determinaPrecio": false
+        }
+      ],
+      "variantes": [],
+      "imagenes": [
+        {
+          "src": "/media/productos/pantalon-ranger-1000.webp",
+          "srcset": "/media/productos/pantalon-ranger-640.webp 640w, /media/productos/pantalon-ranger-1000.webp 1000w",
+          "width": 1000,
+          "height": 1000,
+          "alt": "Pantalón de trabajo negro tipo ranger con refuerzo doble en las rodillas.",
+          "origen": "imagenes/productos/349a2914_p_1000754291-8380189.jpg"
+        }
+      ],
+      "fuente": "https://zorzallirio.com/tienda/pantalon-ranger",
+      "nota": "La fotografía publicada muestra la etiqueta de un fabricante ajeno. Se conserva porque es la imagen que publica la tienda original.",
+      "esLineaPrincipal": true
+    },
+    {
+      "id": 24,
+      "slug": "camisa-de-seguridad-manga-larga-bordada",
+      "nombre": "Camisa de seguridad Manga Larga",
+      "descripcion": "Camisa Manga larga de seguridad con bordados, colores y telas a elecciones del cliente.",
+      "modalidad": "articulo",
+      "periodicidad": null,
+      "precio": 14.0,
+      "precioAnterior": null,
+      "moneda": "USD",
+      "sku": null,
+      "inventario": null,
+      "categoriasPublicadas": [
+        {
+          "id": 17,
+          "nombre": "Seguridad",
+          "slug": "seguridad"
+        }
+      ],
+      "lineas": [
+        "seguridad"
+      ],
+      "opciones": [
+        {
+          "nombre": "Talla",
+          "valores": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "2XL",
+            "3XL"
+          ],
+          "determinaPrecio": false
+        },
+        {
+          "nombre": "Color",
+          "valores": [
+            "Blanco",
+            "Cafe",
+            "Celeste",
+            "Gris Claro",
+            "Rojo",
+            "Verde",
+            "Azul Marino",
+            "Gris Oscuro",
+            "Caqui",
+            "Amarillo",
+            "Negro"
+          ],
+          "determinaPrecio": false
+        }
+      ],
+      "variantes": [],
+      "imagenes": [
+        {
+          "src": "/media/productos/camisa-seguridad-bordada-500.webp",
+          "srcset": "/media/productos/camisa-seguridad-bordada-500.webp 500w",
+          "width": 500,
+          "height": 500,
+          "alt": "Camisa blanca de seguridad manga larga con charreteras y parches bordados en los hombros y el pecho.",
+          "origen": "imagenes/productos/18019b4c_security-guard-shirt-500x500-8379406.jpg"
+        }
+      ],
+      "fuente": "https://zorzallirio.com/tienda/camisa-de-seguridad-manga-larga-bordada",
+      "nota": "Lleva el mismo nombre publicado que el artículo ID 30, con distinto precio y distinta descripción. La fotografía publicada mide 500 × 500 px.",
+      "esLineaPrincipal": true
+    },
+    {
+      "id": 20,
+      "slug": "gabacha-medica",
+      "nombre": "Gabacha Medica",
+      "descripcion": "Gabacha medica en tela de su elección, detalles y bordados personalizabas.",
+      "modalidad": "articulo",
+      "periodicidad": null,
+      "precio": 21.0,
+      "precioAnterior": null,
+      "moneda": "USD",
+      "sku": null,
+      "inventario": null,
+      "categoriasPublicadas": [
+        {
+          "id": 18,
+          "nombre": "Salud",
+          "slug": "salud"
+        }
+      ],
+      "lineas": [
+        "salud"
+      ],
+      "opciones": [
+        {
+          "nombre": "Telas",
+          "valores": [
+            "Tropical",
+            "Singapur",
+            "Deluxe",
+            "Valentino"
+          ],
+          "determinaPrecio": false
+        }
+      ],
+      "variantes": [],
+      "imagenes": [
+        {
+          "src": "/media/productos/gabacha-medica-225.webp",
+          "srcset": "/media/productos/gabacha-medica-225.webp 225w",
+          "width": 225,
+          "height": 225,
+          "alt": "Gabacha médica blanca de manga larga sobre pantalón oscuro.",
+          "origen": "imagenes/productos/2e4ebeac_images-30-7730969.jpeg"
+        }
+      ],
+      "fuente": "https://zorzallirio.com/tienda/gabacha-medica",
+      "nota": "La fotografía publicada mide 225 × 225 px. Se conserva a su tamaño original sin ampliar, por lo que se ve pequeña en la ficha.",
+      "esLineaPrincipal": true
+    },
+    {
+      "id": 18,
+      "slug": "botas-policiaca-swat",
+      "nombre": "Botas estilo Swat",
+      "descripcion": "Botas modelo Swat en cuero y lona para todo uso. Suela anti deslizante.",
+      "modalidad": "articulo",
+      "periodicidad": null,
+      "precio": 25.0,
+      "precioAnterior": null,
+      "moneda": "USD",
+      "sku": null,
+      "inventario": null,
+      "categoriasPublicadas": [
+        {
+          "id": 17,
+          "nombre": "Seguridad",
+          "slug": "seguridad"
+        }
+      ],
+      "lineas": [
+        "seguridad"
+      ],
+      "opciones": [
+        {
+          "nombre": "Talla",
+          "valores": [
+            "37",
+            "38",
+            "39",
+            "40",
+            "41",
+            "42",
+            "43",
+            "44"
+          ],
+          "determinaPrecio": false
+        }
+      ],
+      "variantes": [],
+      "imagenes": [
+        {
+          "src": "/media/productos/botas-swat-247.webp",
+          "srcset": "/media/productos/botas-swat-247.webp 247w",
+          "width": 247,
+          "height": 296,
+          "alt": "Bota táctica negra estilo SWAT de caña alta, con cierre lateral y suela antideslizante.",
+          "origen": "imagenes/productos/272f4e09_Swat_con_zipper-7730582.jpg"
+        }
+      ],
+      "fuente": "https://zorzallirio.com/tienda/botas-policiaca-swat",
+      "nota": "La fotografía publicada mide 247 × 296 px. Se conserva sin ampliar.",
+      "esLineaPrincipal": true
+    },
+    {
+      "id": 17,
+      "slug": "botas-militares-jungla",
+      "nombre": "Botas Jungla",
+      "descripcion": "Botas estilo Jungla en cuero y lona para uso en todo terreno.",
+      "modalidad": "articulo",
+      "periodicidad": null,
+      "precio": 29.0,
+      "precioAnterior": null,
+      "moneda": "USD",
+      "sku": null,
+      "inventario": null,
+      "categoriasPublicadas": [
+        {
+          "id": 17,
+          "nombre": "Seguridad",
+          "slug": "seguridad"
+        }
+      ],
+      "lineas": [
+        "seguridad"
+      ],
+      "opciones": [
+        {
+          "nombre": "Talla",
+          "valores": [
+            "37",
+            "38",
+            "39",
+            "40",
+            "41",
+            "42",
+            "43",
+            "44"
+          ],
+          "determinaPrecio": false
+        }
+      ],
+      "variantes": [],
+      "imagenes": [
+        {
+          "src": "/media/productos/botas-jungla-1-1200.webp",
+          "srcset": "/media/productos/botas-jungla-1-640.webp 640w, /media/productos/botas-jungla-1-1200.webp 1200w",
+          "width": 1200,
+          "height": 1200,
+          "alt": "Bota estilo jungla negra en cuero y lona, vista de tres cuartos.",
+          "origen": "imagenes/productos/790d68a6_thumbnail_IMG_2967_Facetune_22-10-2020-20-45-34-7730582.jpg"
+        },
+        {
+          "src": "/media/productos/botas-jungla-2-1200.webp",
+          "srcset": "/media/productos/botas-jungla-2-640.webp 640w, /media/productos/botas-jungla-2-1200.webp 1200w",
+          "width": 1200,
+          "height": 1200,
+          "alt": "La misma bota estilo jungla vista de perfil, con suela de tacos.",
+          "origen": "imagenes/productos/23f9572e_thumbnail_IMG_2968_Facetune_22-10-2020-20-47-59-7730581.jpg"
+        },
+        {
+          "src": "/media/productos/botas-jungla-3-1200.webp",
+          "srcset": "/media/productos/botas-jungla-3-640.webp 640w, /media/productos/botas-jungla-3-1200.webp 1200w",
+          "width": 1200,
+          "height": 1200,
+          "alt": "Par de botas estilo jungla, una de ellas volteada para mostrar la suela.",
+          "origen": "imagenes/productos/a83078c8_panama_sole__85625.1531361965.1280.1280__87526.1578582462-7730501.jpg"
+        },
+        {
+          "src": "/media/productos/botas-jungla-4-299.webp",
+          "srcset": "/media/productos/botas-jungla-4-299.webp 299w",
+          "width": 299,
+          "height": 300,
+          "alt": "Bota estilo jungla negra de caña alta, vista lateral.",
+          "origen": "imagenes/productos/83b0d77f_Jungla_caribe-7730525.jpg"
+        }
+      ],
+      "fuente": "https://zorzallirio.com/tienda/botas-militares-jungla",
+      "nota": "La galería se reordenó para abrir con la fotografía de mayor resolución: la primera imagen que publica la tienda original mide 299 × 300 px y aquí aparece al final.",
+      "esLineaPrincipal": true
+    },
+    {
+      "id": 16,
+      "slug": "botas-militares-comando",
+      "nombre": "Botas estilo Comando",
+      "descripcion": "Botas tácticas en cuero y lona. Suela anti deslizante.",
+      "modalidad": "articulo",
+      "periodicidad": null,
+      "precio": 16.4,
+      "precioAnterior": null,
+      "moneda": "USD",
+      "sku": null,
+      "inventario": null,
+      "categoriasPublicadas": [
+        {
+          "id": 17,
+          "nombre": "Seguridad",
+          "slug": "seguridad"
+        }
+      ],
+      "lineas": [
+        "seguridad"
+      ],
+      "opciones": [
+        {
+          "nombre": "Talla",
+          "valores": [
+            "37",
+            "38",
+            "39",
+            "40",
+            "41",
+            "42",
+            "43",
+            "44"
+          ],
+          "determinaPrecio": false
+        }
+      ],
+      "variantes": [],
+      "imagenes": [
+        {
+          "src": "/media/productos/botas-comando-1200.webp",
+          "srcset": "/media/productos/botas-comando-640.webp 640w, /media/productos/botas-comando-1200.webp 1200w",
+          "width": 1200,
+          "height": 1200,
+          "alt": "Par de botas tácticas estilo comando en cuero y lona negra con suela de tacos.",
+          "origen": "imagenes/productos/1a7ef34a_IMG_9268-7730317.JPG"
+        }
+      ],
+      "fuente": "https://zorzallirio.com/tienda/botas-militares-comando",
+      "nota": null,
+      "esLineaPrincipal": true
+    },
+    {
+      "id": 14,
+      "slug": "camisa-formal-manga-larga",
+      "nombre": "Camisa Manga corta formal",
+      "descripcion": "Camisa manga larga en tela de su elección, para dama y caballero, los colores, bordados y detalles son personalizables.",
+      "modalidad": "articulo",
+      "periodicidad": null,
+      "precio": 14.9,
+      "precioAnterior": null,
+      "moneda": "USD",
+      "sku": null,
+      "inventario": null,
+      "categoriasPublicadas": [
+        {
+          "id": 15,
+          "nombre": "Oficina",
+          "slug": "oficina"
+        }
+      ],
+      "lineas": [
+        "oficina"
+      ],
+      "opciones": [
+        {
+          "nombre": "Genero",
+          "valores": [
+            "Dama",
+            "Caballero"
+          ],
+          "determinaPrecio": false
+        },
+        {
+          "nombre": "Color",
+          "valores": [
+            "Blanco",
+            "Celeste",
+            "Rojo",
+            "Marino",
+            "Gris Claro",
+            "Gris Oscuro",
+            "Negro",
+            "Cafe",
+            "Royal"
+          ],
+          "determinaPrecio": false
+        },
+        {
+          "nombre": "Tela",
+          "valores": [
+            "Algodon Egipcio",
+            "Dacron Americano",
+            "Microfibra",
+            "Twill fino",
+            "Oxford",
+            "Gabardina",
+            "Tropical Deluxe",
+            "Macarthur"
+          ],
+          "determinaPrecio": false
+        }
+      ],
+      "variantes": [],
+      "imagenes": [
+        {
+          "src": "/media/productos/camisa-poplin-manga-larga-1000.webp",
+          "srcset": "/media/productos/camisa-poplin-manga-larga-640.webp 640w, /media/productos/camisa-poplin-manga-larga-1000.webp 1000w",
+          "width": 1000,
+          "height": 1000,
+          "alt": "Camisa formal manga larga de popelina azul con cinturón, corte para dama.",
+          "origen": "imagenes/productos/a4306028_sp91rb-women-s-royal-blue-long-sleeve-button-down-poplin-shirts-9-1-colors-15-7728509.jpg"
+        }
+      ],
+      "fuente": "https://zorzallirio.com/tienda/camisa-formal-manga-larga",
+      "nota": "El nombre publicado dice «Manga corta», pero la descripción, la URL original (camisa-formal-manga-larga) y la fotografía corresponden a manga larga. Se conserva el nombre publicado.",
+      "esLineaPrincipal": true
+    },
+    {
+      "id": 13,
+      "slug": "camisa-de-seguridad",
+      "nombre": "Camisa de Seguridad manga corta",
+      "descripcion": "Camisa de seguridad en tela de su elección, para dama y caballero, los colores, bordados y detalles son personalizables.",
+      "modalidad": "articulo",
+      "periodicidad": null,
+      "precio": 12.5,
+      "precioAnterior": null,
+      "moneda": "USD",
+      "sku": null,
+      "inventario": null,
+      "categoriasPublicadas": [
+        {
+          "id": 15,
+          "nombre": "Oficina",
+          "slug": "oficina"
+        }
+      ],
+      "lineas": [
+        "oficina"
+      ],
+      "opciones": [
+        {
+          "nombre": "Genero",
+          "valores": [
+            "Dama",
+            "Caballero"
+          ],
+          "determinaPrecio": false
+        },
+        {
+          "nombre": "Color",
+          "valores": [
+            "Blanco",
+            "Celeste",
+            "Rojo",
+            "Marino",
+            "Gris Claro",
+            "Gris Oscuro",
+            "Negro",
+            "Cafe",
+            "Royal"
+          ],
+          "determinaPrecio": false
+        },
+        {
+          "nombre": "Tela",
+          "valores": [
+            "Algodon Egipcio",
+            "Dacron Americano",
+            "Microfibra",
+            "Twill fino",
+            "Oxford",
+            "Gabardina",
+            "Tropical Deluxe",
+            "Macarthur"
+          ],
+          "determinaPrecio": false
+        }
+      ],
+      "variantes": [],
+      "imagenes": [
+        {
+          "src": "/media/productos/camisa-seguridad-manga-corta-512.webp",
+          "srcset": "/media/productos/camisa-seguridad-manga-corta-512.webp 512w",
+          "width": 512,
+          "height": 504,
+          "alt": "Agente de seguridad con camisa blanca de charreteras, corbata y gorra azul marino.",
+          "origen": "imagenes/productos/2b6c7ac4_unnamed-3-7729407.png"
+        }
+      ],
+      "fuente": "https://zorzallirio.com/tienda/camisa-de-seguridad",
+      "nota": "La tienda original la publica únicamente en la categoría «Oficina», aunque el nombre y la descripción indican seguridad. Se conserva la categoría publicada.",
+      "esLineaPrincipal": true
+    },
+    {
+      "id": 12,
+      "slug": "camisa-polo-waffit",
+      "nombre": "Camisa Polo Waffit",
+      "descripcion": "Camisa tipo Polo Waffit con detalles de contraste en puño y cuello para dama y caballero, los colores y bordados son personalizables.",
+      "modalidad": "articulo",
+      "periodicidad": null,
+      "precio": 13.0,
+      "precioAnterior": null,
+      "moneda": "USD",
+      "sku": null,
+      "inventario": null,
+      "categoriasPublicadas": [
+        {
+          "id": 15,
+          "nombre": "Oficina",
+          "slug": "oficina"
+        },
+        {
+          "id": 17,
+          "nombre": "Seguridad",
+          "slug": "seguridad"
+        }
+      ],
+      "lineas": [
+        "oficina",
+        "seguridad"
+      ],
+      "opciones": [
+        {
+          "nombre": "Genero",
+          "valores": [
+            "Dama",
+            "Caballero"
+          ],
+          "determinaPrecio": false
+        },
+        {
+          "nombre": "Color",
+          "valores": [
+            "Rojo",
+            "Gris Oscuro",
+            "Negro"
+          ],
+          "determinaPrecio": false
+        }
+      ],
+      "variantes": [],
+      "imagenes": [
+        {
+          "src": "/media/productos/camisa-polo-waffit-500.webp",
+          "srcset": "/media/productos/camisa-polo-waffit-500.webp 500w",
+          "width": 500,
+          "height": 579,
+          "alt": "Camisa tipo polo azul royal con vivos de contraste en cuello y puños y logotipos bordados en el pecho.",
+          "origen": "imagenes/productos/d6cabf48_unnamed-7728756.png"
+        }
+      ],
+      "fuente": "https://zorzallirio.com/tienda/camisa-polo-waffit",
+      "nota": null,
+      "esLineaPrincipal": true
+    },
+    {
+      "id": 11,
+      "slug": "camisa-polo-algodon",
+      "nombre": "Camisa tipo Polo Algodon",
+      "descripcion": "Camisa tipo Polo, para dama y caballero, los colores y bordados son personalizables.",
+      "modalidad": "articulo",
+      "periodicidad": null,
+      "precio": 11.0,
+      "precioAnterior": null,
+      "moneda": "USD",
+      "sku": null,
+      "inventario": null,
+      "categoriasPublicadas": [
+        {
+          "id": 15,
+          "nombre": "Oficina",
+          "slug": "oficina"
+        }
+      ],
+      "lineas": [
+        "oficina"
+      ],
+      "opciones": [
+        {
+          "nombre": "Genero",
+          "valores": [
+            "Dama",
+            "Caballero"
+          ],
+          "determinaPrecio": false
+        },
+        {
+          "nombre": "Color",
+          "valores": [
+            "Blanco",
+            "Celeste",
+            "Rojo",
+            "Marino",
+            "Gris Claro",
+            "Gris Oscuro",
+            "Negro",
+            "Cafe",
+            "Royal"
+          ],
+          "determinaPrecio": false
+        }
+      ],
+      "variantes": [],
+      "imagenes": [
+        {
+          "src": "/media/productos/camisa-polo-algodon-1280.webp",
+          "srcset": "/media/productos/camisa-polo-algodon-640.webp 640w, /media/productos/camisa-polo-algodon-1280.webp 1280w",
+          "width": 1280,
+          "height": 871,
+          "alt": "Camisa tipo polo de algodón con logotipo bordado en el pecho, mostrada en gris y en azul.",
+          "origen": "imagenes/productos/cdb2010b_apparel_0022-7729620.jpg"
+        }
+      ],
+      "fuente": "https://zorzallirio.com/tienda/camisa-polo-algodon",
+      "nota": "Comparte nombre, precio, descripción y fotografía con el artículo ID 29. La tienda original los publica como dos fichas distintas y así se conservan.",
+      "esLineaPrincipal": true
+    },
+    {
+      "id": 10,
+      "slug": "camisa-con-reflectivos",
+      "nombre": "Camisa Manga corta formal",
+      "descripcion": "Camisa manga larga industrial con Reflectivos y 3/4 en tela de su elección, para dama y caballero, los colores, bordados y detalles son personalizables.",
+      "modalidad": "articulo",
+      "periodicidad": null,
+      "precio": 32.0,
+      "precioAnterior": null,
+      "moneda": "USD",
+      "sku": null,
+      "inventario": null,
+      "categoriasPublicadas": [
+        {
+          "id": 15,
+          "nombre": "Oficina",
+          "slug": "oficina"
+        },
+        {
+          "id": 17,
+          "nombre": "Seguridad",
+          "slug": "seguridad"
+        }
+      ],
+      "lineas": [
+        "oficina",
+        "seguridad"
+      ],
+      "opciones": [
+        {
+          "nombre": "Genero",
+          "valores": [
+            "Dama",
+            "Caballero"
+          ],
+          "determinaPrecio": false
+        },
+        {
+          "nombre": "Color",
+          "valores": [
+            "Blanco",
+            "Celeste",
+            "Rojo",
+            "Marino",
+            "Gris Claro",
+            "Gris Oscuro",
+            "Negro",
+            "Cafe",
+            "Royal"
+          ],
+          "determinaPrecio": false
+        },
+        {
+          "nombre": "Tela",
+          "valores": [
+            "Algodon Egipcio",
+            "Dacron Americano",
+            "Microfibra",
+            "Twill fino",
+            "Oxford",
+            "Gabardina",
+            "Tropical Deluxe",
+            "Macarthur"
+          ],
+          "determinaPrecio": false
+        }
+      ],
+      "variantes": [],
+      "imagenes": [
+        {
+          "src": "/media/productos/camisa-reflectivos-1043.webp",
+          "srcset": "/media/productos/camisa-reflectivos-640.webp 640w, /media/productos/camisa-reflectivos-1043.webp 1043w",
+          "width": 1043,
+          "height": 1200,
+          "alt": "Camisa de trabajo manga larga color gris claro con cintas reflectivas en el torso y las mangas.",
+          "origen": "imagenes/productos/97b07cc5_IMG-3627-Facetune-25-11-2020-13-18-41-7728255.jpg"
+        }
+      ],
+      "fuente": "https://zorzallirio.com/tienda/camisa-con-reflectivos",
+      "nota": "El nombre publicado dice «Manga corta formal», pero la descripción y la fotografía corresponden a una camisa industrial manga larga con reflectivos. Se conserva el nombre publicado.",
+      "esLineaPrincipal": true
+    },
+    {
+      "id": 9,
+      "slug": "camisa-formal-manga-corta",
+      "nombre": "Camisa Manga corta formal",
+      "descripcion": "Camisa manga corta en tela de su elección, para dama y caballero, los colores, bordados y detalles son personalizables.",
+      "modalidad": "articulo",
+      "periodicidad": null,
+      "precio": 14.5,
+      "precioAnterior": null,
+      "moneda": "USD",
+      "sku": null,
+      "inventario": null,
+      "categoriasPublicadas": [
+        {
+          "id": 15,
+          "nombre": "Oficina",
+          "slug": "oficina"
+        }
+      ],
+      "lineas": [
+        "oficina"
+      ],
+      "opciones": [
+        {
+          "nombre": "Genero",
+          "valores": [
+            "Dama",
+            "Caballero"
+          ],
+          "determinaPrecio": false
+        },
+        {
+          "nombre": "Color",
+          "valores": [
+            "Blanco",
+            "Celeste",
+            "Rojo",
+            "Marino",
+            "Gris Claro",
+            "Gris Oscuro",
+            "Negro",
+            "Cafe",
+            "Royal"
+          ],
+          "determinaPrecio": false
+        },
+        {
+          "nombre": "Tela",
+          "valores": [
+            "Algodon Egipcio",
+            "Dacron Americano",
+            "Microfibra",
+            "Twill fino",
+            "Oxford",
+            "Gabardina",
+            "Tropical Deluxe",
+            "Macarthur"
+          ],
+          "determinaPrecio": false
+        }
+      ],
+      "variantes": [],
+      "imagenes": [
+        {
+          "src": "/media/productos/camisa-columbia-emaus-300.webp",
+          "srcset": "/media/productos/camisa-columbia-emaus-300.webp 300w",
+          "width": 300,
+          "height": 300,
+          "alt": "Camisa manga corta tipo columbia azul marino con logotipo bordado en el pecho.",
+          "origen": "imagenes/productos/be0513d1_Camisa-Tipo-Columbia-Azul-Marino-con-Logo-Emaus-Unisex-300x300-7728095.png"
+        }
+      ],
+      "fuente": "https://zorzallirio.com/tienda/camisa-formal-manga-corta",
+      "nota": "La fotografía publicada mide 300 × 300 px. Se conserva sin ampliar.",
+      "esLineaPrincipal": true
+    },
+    {
+      "id": 8,
+      "slug": "camisa-manga-corta-oxford",
+      "nombre": "Camisa Manga corta en tela Oxford",
+      "descripcion": "Camisa manga corta en tela Oxford, para dama y caballero, los colores, bordados y detalles son personalizables.",
+      "modalidad": "articulo",
+      "periodicidad": null,
+      "precio": 14.5,
+      "precioAnterior": null,
+      "moneda": "USD",
+      "sku": null,
+      "inventario": null,
+      "categoriasPublicadas": [
+        {
+          "id": 15,
+          "nombre": "Oficina",
+          "slug": "oficina"
+        }
+      ],
+      "lineas": [
+        "oficina"
+      ],
+      "opciones": [
+        {
+          "nombre": "Genero",
+          "valores": [
+            "Dama",
+            "Caballero"
+          ],
+          "determinaPrecio": false
+        },
+        {
+          "nombre": "Color",
+          "valores": [
+            "Blanco",
+            "Celeste",
+            "Rojo",
+            "Gris Claro",
+            "Gris Oscuro",
+            "Negro",
+            "Cafe",
+            "Naranja"
+          ],
+          "determinaPrecio": false
+        }
+      ],
+      "variantes": [],
+      "imagenes": [
+        {
+          "src": "/media/productos/camisa-oxford-manga-corta-512.webp",
+          "srcset": "/media/productos/camisa-oxford-manga-corta-512.webp 512w",
+          "width": 512,
+          "height": 366,
+          "alt": "Tres personas con camisas de vestir en celeste, rayas y rosado.",
+          "origen": "imagenes/productos/c2957b9b_unnamed-2-7727419.png"
+        }
+      ],
+      "fuente": "https://zorzallirio.com/tienda/camisa-manga-corta-oxford",
+      "nota": null,
+      "esLineaPrincipal": true
+    },
+    {
+      "id": 7,
+      "slug": "camisa-personalizada-manga-larga",
+      "nombre": "Camisa Manga Larga con detalles Colores",
+      "descripcion": "Camisa manga larga en tela de su elección, para dama y caballero, los colores, bordados y detalles son personalizables.",
+      "modalidad": "articulo",
+      "periodicidad": null,
+      "precio": 18.0,
+      "precioAnterior": null,
+      "moneda": "USD",
+      "sku": null,
+      "inventario": null,
+      "categoriasPublicadas": [
+        {
+          "id": 15,
+          "nombre": "Oficina",
+          "slug": "oficina"
+        }
+      ],
+      "lineas": [
+        "oficina"
+      ],
+      "opciones": [
+        {
+          "nombre": "Genero",
+          "valores": [
+            "Dama",
+            "Caballero"
+          ],
+          "determinaPrecio": false
+        },
+        {
+          "nombre": "Color",
+          "valores": [
+            "Blanco",
+            "Celeste",
+            "Rojo",
+            "Marino",
+            "Gris Claro",
+            "Gris Oscuro",
+            "Negro",
+            "Cafe",
+            "Royal"
+          ],
+          "determinaPrecio": false
+        },
+        {
+          "nombre": "Tela",
+          "valores": [
+            "Algodon Egipcio",
+            "Dacron Americano",
+            "Microfibra",
+            "Twill fino",
+            "Oxford",
+            "Gabardina",
+            "Tropical Deluxe",
+            "Macarthur"
+          ],
+          "determinaPrecio": false
+        }
+      ],
+      "variantes": [],
+      "imagenes": [
+        {
+          "src": "/media/productos/camisa-manga-larga-detalles-640.webp",
+          "srcset": "/media/productos/camisa-manga-larga-detalles-640.webp 640w",
+          "width": 640,
+          "height": 400,
+          "alt": "Camisa manga larga azul marino con detalles de contraste en color en la botonadura y el cuello.",
+          "origen": "imagenes/productos/21b94047_Portfolio22-7724559.png"
+        }
+      ],
+      "fuente": "https://zorzallirio.com/tienda/camisa-personalizada-manga-larga",
+      "nota": null,
+      "esLineaPrincipal": true
+    },
+    {
+      "id": 6,
+      "slug": "camisa-columbia-tipo-fed",
+      "nombre": "Camisa Columbia tipo Fed",
+      "descripcion": "Camisa tipo Columbia para dama y caballero en tela de algodon.",
+      "modalidad": "articulo",
+      "periodicidad": null,
+      "precio": 28.0,
+      "precioAnterior": null,
+      "moneda": "USD",
+      "sku": null,
+      "inventario": null,
+      "categoriasPublicadas": [
+        {
+          "id": 15,
+          "nombre": "Oficina",
+          "slug": "oficina"
+        },
+        {
+          "id": 16,
+          "nombre": "Industrial",
+          "slug": "industrial"
+        },
+        {
+          "id": 17,
+          "nombre": "Seguridad",
+          "slug": "seguridad"
+        }
+      ],
+      "lineas": [
+        "oficina",
+        "industrial",
+        "seguridad"
+      ],
+      "opciones": [
+        {
+          "nombre": "Genero",
+          "valores": [
+            "Dama",
+            "Caballero"
+          ],
+          "determinaPrecio": false
+        },
+        {
+          "nombre": "Color",
+          "valores": [
+            "Blanco",
+            "Celeste",
+            "Rojo",
+            "Marino",
+            "Gris Claro",
+            "Gris Oscuro",
+            "Negro",
+            "Cafe",
+            "Royal"
+          ],
+          "determinaPrecio": false
+        },
+        {
+          "nombre": "Tela",
+          "valores": [
+            "Dacron Americano",
+            "Algodon Egipcio",
+            "Gabardina",
+            "Tropical Deluxe",
+            "Macarthur",
+            "Microfibra",
+            "Oxford",
+            "Twill Fino"
+          ],
+          "determinaPrecio": false
+        },
+        {
+          "nombre": "Talla",
+          "valores": [
+            "S",
+            "M",
+            "L"
+          ],
+          "determinaPrecio": false
+        }
+      ],
+      "variantes": [],
+      "imagenes": [
+        {
+          "src": "/media/productos/camisa-columbia-fed-1-768.webp",
+          "srcset": "/media/productos/camisa-columbia-fed-1-640.webp 640w, /media/productos/camisa-columbia-fed-1-768.webp 768w",
+          "width": 768,
+          "height": 768,
+          "alt": "Camisa blanca tipo columbia manga corta con logotipos de empresas bordados en el pecho y la manga.",
+          "origen": "imagenes/productos/a3118cb3_najul_13-7723878.png"
+        },
+        {
+          "src": "/media/productos/camisa-columbia-fed-2-768.webp",
+          "srcset": "/media/productos/camisa-columbia-fed-2-640.webp 640w, /media/productos/camisa-columbia-fed-2-768.webp 768w",
+          "width": 768,
+          "height": 768,
+          "alt": "Dos colaboradores con camisas blancas tipo columbia bordadas, sosteniendo cascos de seguridad.",
+          "origen": "imagenes/productos/c649613c_2021-01-13-7724596.jpg"
+        }
+      ],
+      "fuente": "https://zorzallirio.com/tienda/camisa-columbia-tipo-fed",
+      "nota": null,
+      "esLineaPrincipal": true
+    }
+  ]
+}
